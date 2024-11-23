@@ -1,3 +1,5 @@
+
+
 **1. Portfolio Risk-Return Analysis**
 **Objective:** Evaluate the performance of a diversified portfolio of stocks and recommend an optimized allocation based on risk and return trade-offs.
 **Methodology:**
@@ -9,6 +11,8 @@ Excel: For calculations, portfolio modeling, and visualizing risk-return trade-o
 **Key Insights:**
 Identified high-performing stocks and underperforming assets in the portfolio.
 Recommended optimal portfolio weights to achieve maximum returns for a given level of risk.
+[Portfolio Analysis.xlsx](https://github.com/user-attachments/files/17882542/Portfolio.Analysis.xlsx)
+
 
 **2. Ratio Analysis (BAL Pharma)
 Objective:** Assess the financial health and performance of BAL Pharma through detailed ratio analysis.
@@ -22,6 +26,7 @@ Highlighted areas of financial strength and flagged potential concerns (e.g., hi
 The insights supported trend analysis and comparisons with industry benchmarks.
 **Tools Used:**
 Excel: For ratio calculations and creating a dashboard with visualizations like charts and tables.
+[Fundamental Ratio analysis.xlsx](https://github.com/user-attachments/files/17882541/Fundamental.Ratio.analysis.xlsx)
 
 **3. Proforma Financial Statements (ITC)
 Objective:** Forecast ITC’s future financial performance based on historical data and strategic assumptions.
@@ -34,3 +39,6 @@ Excel: For modeling proforma statements, scenario analysis, and visualization of
 **Key Insights:**
 Identified potential revenue growth opportunities and cost-saving strategies.
 Provided actionable insights to stakeholders on ITC’s projected liquidity and profitability.
+[Financial Analysis of ITC.xlsx](https://github.com/user-attachments/files/17882540/Financial.Analysis.of.ITC.xlsx)
+[Proforma_Financial_Statements.xlsx](https://github.com/user-attachments/files/17882543/Proforma_Financial_Statements.xlsx)
+
